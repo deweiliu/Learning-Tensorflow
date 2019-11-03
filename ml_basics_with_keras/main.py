@@ -1,1 +1,1 @@
-import ml_basics_with_keras.basic_image_classification.basic_image_classification
+import ml_basics_with_keras.text_classification.text_classification
